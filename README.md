@@ -1,2 +1,4 @@
 # Quiz-System
-  Quiz System Description
+  Team Members
+  Khum Bahadur Chaudhary
+  Aswin K.C
